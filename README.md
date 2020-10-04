@@ -1,2 +1,2 @@
-# mod_2-solutions
+# mod_2_solutions
  
